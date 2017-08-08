@@ -2,4 +2,4 @@
 
 In this repository you could find the *Shiny app's source code (ui.R and server.R)* corresponding to the Assignment Week 4 project, from Coursera ***Developing Data Products*** course.
 
-The application is being hosted at 
+The application is being hosted at https://skmsourav.shinyapps.io/RandomForest/
